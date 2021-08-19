@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculaArea/CalculaArea.iml" filepath="$PROJECT_DIR$/CalculaArea/CalculaArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cofrinho/Cofrinho.iml" filepath="$PROJECT_DIR$/Cofrinho/Cofrinho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diferenca/Diferenca.iml" filepath="$PROJECT_DIR$/Diferenca/Diferenca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios Java Github.iml" filepath="$PROJECT_DIR$/.idea/Exercicios Java Github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcoes/Funcoes.iml" filepath="$PROJECT_DIR$/Funcoes/Funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notas/Notas.iml" filepath="$PROJECT_DIR$/Notas/Notas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPPresonagem/OOPPresonagem.iml" filepath="$PROJECT_DIR$/OOPPresonagem/OOPPresonagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PositivoNegativo/PositivoNegativo.iml" filepath="$PROJECT_DIR$/PositivoNegativo/PositivoNegativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurante/Restaurante.iml" filepath="$PROJECT_DIR$/Restaurante/Restaurante.iml" />
+    </modules>
+  </component>
+</project>

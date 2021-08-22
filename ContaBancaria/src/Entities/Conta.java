@@ -10,6 +10,7 @@ public abstract class Conta implements IConta {
     protected int agencia;
     protected int numero;
     protected double saldo;
+    //composição
     protected Cliente cliente;
 
     public Conta(Cliente cliente) {
